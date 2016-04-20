@@ -7,11 +7,11 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.admin.w4d2localbroadcastreceiver.MainActivity">
+    tools:context="com.example.admin.w4d2localbroadcastreceiver.SecondActivity">
 
     <Button
         android:onClick="doMagic"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Go to activity 2"/>
+        android:text="Send Message"/>
 </RelativeLayout>
